@@ -3,7 +3,7 @@
 	    "alert.about": "Record and manage sounds that can be used as alarms to automatically trigger your shortcuts.",
 	    "alert.garageband.docs": "Tap OK to open both GarageBand and AlarmCuts' documentation in Safari.\n\nIf you are using an iOS device that supports Slide Over, place Safari on top of GarageBand so you can read the instructions as you create the ringtone.",
 	    "alert.newAlarm": "Tap OK to open Clock.\n\nEdit the “{{sound}}” alarm for {{time}} and set its Sound to the ringtone “{{sound}}” you created in GarageBand.\n\nSet your desired repeat interval for the alarm.\n\nFinally, disable Snooze in the alarm.\n\nMake sure your alarm volume is loud enough for your iOS device to hear the Siri phrase.\n\nNOTE: If your iOS device is locked when the alarm goes off, your shortcut may not run properly.",
-	    "alert.newAlarm.title": "Alarm Created for {{time}}",
+	    "alert.newAlarm.title": "Create Alarm for {{time}}",
 	    "alert.record.1": "Tap OK to begin recording a “Hey Siri” phrase for one of your shortcuts.\n\nSay the phrase quickly or else iOS may start processing the Siri request before your alarm sound stops playing.\n\nAfter recording, you will save the sound file and have the opportunity to open GarageBand to turn it into a ringtone.",
 	    "alert.record.1.title": "New Audio Recording (1/2)",
 	    "alert.update.none": "You are currently running the latest version of AlarmCuts.",
