@@ -46,6 +46,8 @@
 	    "menu.sound.trim": "Trim Sound…",
 	    "menu.update.cancel": "Update Later",
 	    "menu.update.confirm": "Download Update…",
+	    "menu.welcome.docs": "Read Documentation…",
+	    "menu.welcome.home": "Go to AlarmCuts Home…",
 	    "prompt.garageband": "Create a Ringtone (2/2)\n\nNext, you will create a ringtone for use by alarms in Clock. Tap Open GarageBand and follow these steps:\n\n1. Create a new song in GarageBand.\n\n2. Tap the Tracks View button to open Tracks view, tap the Loop Browser button in the control bar, then tap Files.\n\nTap “Browse items from the Files app,” then navigate to the iCloud Drive/AlarmCuts/sounds folder.\n\n3. Tap and hold on the “{{sound}}” file.\n\n4. Drag the audio file from the list to Tracks view.\n\n5. Save the file as a ringtone.",
 	    "prompt.language": "Choose Language",
 	    "prompt.main": "⏰ AlarmCuts\n\nRecord and manage sounds that can be used as alarms to automatically trigger your shortcuts.",
@@ -53,6 +55,7 @@
 	    "prompt.record.duplicate": "There is already a sound file with the same name. Replace the file with the new sound, keep both, or skip?",
 	    "prompt.record.name": "Enter the name for this sound file.",
 	    "prompt.settings": "AlarmCuts Settings",
-	    "prompt.update": "AlarmCuts {{version}} is available. Would you like to download it now?\n\nRelease Notes\n{{notes}}"
+	    "prompt.update": "AlarmCuts {{version}} is available. Would you like to download it now?\n\nRelease Notes\n{{notes}}",
+	    "prompt.welcome": "⏰ AlarmCuts\n\nRecord and manage sounds that can be used as alarms to automatically trigger your shortcuts.\n\nAlarmCuts guides you in creating ringtones in GarageBand and creating alarms in Clock.\n\nWould you like to read documentation for AlarmCuts?"
 	}
 }
