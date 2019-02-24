@@ -38,23 +38,79 @@ Tap **Open GarageBand** and follow these steps:
 
 ![GarageBand Track View](https://adamtow.github.io/alarmcuts/images/garageband-trackview.png)
 
+- Tap the **Loops** button.
 
+![GarageBand Loops Button](https://adamtow.github.io/alarmcuts/images/garageband-loops-button.png)
+
+- Tap **Files**.
+- Tap **Browse Items from the Files app**.
+- Navigate to the folder `iCloud Drive/Shortcuts/AlarmCuts/sounds`.
 
 ![GarageBand Loops](https://adamtow.github.io/alarmcuts/images/garageband-loops.png)
 
 ![GarageBand Import Files](https://adamtow.github.io/alarmcuts/images/garageband-import-file.png)
 
+- Choose the audio file that you created in AlarmCuts.
+
 ![GarageBand File Imported](https://adamtow.github.io/alarmcuts/images/garageband-file-imported.png)
+
+- Tap, hold, and drag the audio file in the Loops dialog onto the Tracks view.
 
 ![GarageBand File in Track View](https://adamtow.github.io/alarmcuts/images/garageband-file-track.png)
 
+- Perform any editing of the audio track.
+- When you are done, tap **My Songs** (iPad) or the downward-facing triangle (iPhone) to go back to the **My Songs** screen.
+- Long-press on the song to bring up the editing menu.
+
 ![GarageBand Long Press to Bring up Share Menu](https://adamtow.github.io/alarmcuts/images/garageband-long-press.png)
+
+- Tap **Share**.
+- Tap **Ringtone**.
 
 ![GarageBand Save as Ringtone](https://adamtow.github.io/alarmcuts/images/garageband-ringtone.png)
 
+- Enter the name for your ringtone. Recommendation: Name it the same as your shortcut.
+
 ![GarageBand Setting Ringtone Name](https://adamtow.github.io/alarmcuts/images/garageband-ringtone-name.png)
 
+Now you can return to AlarmCuts to create your alarm or go straight to the Clock app.
+
 ## Clock
+Once you have created your ringtone, you can now assign it to alarms in the Clock app to automatically trigger shortcuts.
+
+> If you are using an iOS device that supports Split View, place Shortcuts/AlarmCuts and Clock app side-by-side to see what's happening in both applications at the same time.
+
+![AlarmCuts and Clock](https://adamtow.github.io/alarmcuts/images/alarmcuts-clock.png)
+
+- Tap the sound you wish to create an alarm for.
+- Tap **Create Alarm**.
+
+![AlarmCuts Editing a Sound](https://adamtow.github.io/alarmcuts/images/alarmcuts-clock-edit-sound.png)
+
+- Enter the time you want the alarm to go off and tap OK.
+- Tap **OK** to open the Clock app after the alarm has been created.
+
+![AlarmCuts Setting Alarm Time](https://adamtow.github.io/alarmcuts/images/alarmcuts-clock-alarm-time.png)
+
+![AlarmCuts New Alarm Created](https://adamtow.github.io/alarmcuts/images/alarmcuts-clock-create-alarm.png)
+
+- In Clock, tap **Edit**.
+- Tap the alarm that was just created.
+
+![Editing Alarm](https://adamtow.github.io/alarmcuts/images/alarmcuts-clock-edit-alarm.png)
+
+- Disable **Snooze**.
+- If desired, set the **Repeat** schedule for the alarm.
+- Tap **Sound**.
+- Scroll to the **Ringtones** section and choose the ringtone that you created in GarageBand. Clock will play the sound, so be prepared to disable the Siri request to prevent your shortcut from running.
+
+![Assigning a Ringtone to your alarm](https://adamtow.github.io/alarmcuts/images/alarmcuts-clock-ringtone.png)
+
+- Tap **Back**.
+- Tap **Save**.
+
+![AlarmCuts and Clock](https://adamtow.github.io/alarmcuts/images/alarmcuts-clock-2.png)
+
 
 ## Settings
 
