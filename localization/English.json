@@ -4,7 +4,7 @@
 	    "alert.garageband.docs": "Tap OK to open AlarmCuts docs in Safari and GarageBand  if you are running on an iOS device that supports Split View, place GarageBand and Safari side-by-side to follow along with the instructions as you create ringtones and alarms.",
 	    "alert.newAlarm": "Tap OK to open Clock.\n\nEdit the “{{sound}}” alarm for {{time}} and set its Sound to the ringtone “{{sound}}” you created in GarageBand.\n\nSet your desired repeat interval for the alarm.\n\nFinally, disable Snooze in the alarm.\n\nNOTE: If your iOS device is locked when the alarm goes off, your shortcut may not run properly.",
 	    "alert.newAlarm.title": "Alarm Created for {{time}}",
-	    "alert.record.1": "Tap OK to begin recording a “Hey Siri” phrase for automatically running one of your shortcuts.\n\nSay the phrase quickly (under a second), or iOS may start processing the Siri request before your alarm sound stops playing.\n\nAfter recording, you will save the sound file and have the opportunity to open GarageBand to turn it into a ringtone.",
+	    "alert.record.1": "Tap OK to begin recording a “Hey Siri” phrase for one of your shortcuts.\n\nSay the phrase quickly or else iOS may start processing the Siri request before your alarm sound stops playing.\n\nAfter recording, you will save the sound file and have the opportunity to open GarageBand to turn it into a ringtone.",
 	    "alert.record.1.title": "New Audio Recording (1/2)",
 	    "alert.update.none": "You are currently running the latest version of AlarmCuts.",
 	    "alert.update.none.title": "No Update Available",
