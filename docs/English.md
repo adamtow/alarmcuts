@@ -40,6 +40,11 @@ When you launch AlarmCuts, the AlarmCuts Home screen will appear with the follow
 
 ![AlarmCuts Interface](https://adamtow.github.io/alarmcuts/images/alarmcuts-interface.png)
 
+### Recording a New Sound
+Tap **Record New Sound** to create a new audio recording. If **Display Hints** is enabled, an alert will appear providing instructions on the steps it will take to record the sound and convert.
+
+
+
 ***
 
 <span id="garageband"></span>
