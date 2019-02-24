@@ -16,6 +16,7 @@ Did you know that you can create alarms with custom ringtones that  can automati
 - [Alarm Tips](#tips)
 	- [Limitations](#limitations)
 - [Settings](#settings)
+- [Localization](#localization)
 - [Version History](#version)
 - [License](#license)
 
@@ -209,6 +210,16 @@ From the AlarmCuts Home, tap **Settings**. You can configure the following optio
 - **Check for Updates Automatically**: When AlarmCuts is launched, it will check for updates on RoutineHub automatically.
 - **Check for Updates**: Manually check for updates to AlarmCuts.
 - **Back to AlarmCuts Home**: Return to the AlarmCuts Home screen.
+
+***
+
+<span id="localization"></span>
+## Localization 
+AlarmCuts is available in English, but the application is fully ready to be localized. I have developed an application, **Localization Helper**, that will assist you in localizing AlarmCuts into your language.
+
+> [**Download Localization Helper from RoutineHub &raquo;**](https://routinehub.co/shortcut/1931)
+
+When the localization file is complete, either submit a pull request on [my GitHub page](https://github.com/adamtow/) or [contact me](mailto:shortcuts+localization@tow.com).
 
 ***
 
