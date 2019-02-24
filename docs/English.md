@@ -27,7 +27,7 @@ Did you know that you can create alarms with custom ringtones that can automatic
 ## Download and Installation
 Download the latest version of AlarmCuts from RoutineHub:
 
-> [**Download AlarmCuts from RoutineHub &raquo;**](https://routinehub.co/shortcut/2071)
+> [**Download AlarmCuts from RoutineHub &raquo;**](https://routinehub.co/shortcut/2070)
 
 When you first install AlarmCuts, you'll have the option to read this documentation or go straight to the [AlarmCuts Home screen](#alarmcuts).
 
