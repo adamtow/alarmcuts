@@ -8,6 +8,9 @@ Did you know that you can create alarms with custom ringtones that  can automati
 ## Table of Contents
 - [Download and Installation](#download)
 - [AlarmCuts Interface](#alarmcuts)
+	- [Recording a New Sound](#record)
+	- [Trimming a Sound](#trim)
+	- [Deleting a Sound](#delete)
 - [Creating Ringtones in GarageBand](#garageband)
 - [Creating Alarms in Clock](#clock)
 - [Alarm Tips](#tips)
@@ -40,10 +43,29 @@ When you launch AlarmCuts, the AlarmCuts Home screen will appear with the follow
 
 ![AlarmCuts Interface](https://adamtow.github.io/alarmcuts/images/alarmcuts-interface.png)
 
+<span id="record"></span>
 ### Recording a New Sound
-Tap **Record New Sound** to create a new audio recording. If **Display Hints** is enabled, an alert will appear providing instructions on the steps it will take to record the sound and convert.
+- Tap **Record New Sound** to create a new audio recording. If **Display Hints** is enabled, an alert will appear providing instructions on the steps it will take to record the sound and convert.
+- Tap the screen to start recording your Siri Shortcut phrase. Speak the phrase quickly so that when your alarm goes off, iOS hears the whole phrase and doesn't stop your alarm sound prematurely. See the [Tips section](#tips) for more details.
+- Tap the screen to stop recording.
 
+![AlarmCuts Record (1/2)](https://adamtow.github.io/alarmcuts/images/alarmcuts-record-1.png)
 
+- Next, enter the name for the new audio recording. It's recommended you use the name of the shortcut.
+- If a file with the same name exists in the `iCloud Drive/Shortcuts/AlarmCuts/sounds` folder, you will be prompt to replace the file, keep both audio files, or skip. If you choose skip, the audio recording will not be saved.
+- After the file has been saved, you will have the opportunity to open [GarageBand](#garageband) to create a ringtone that can be used with alarms in the Clock app.
+
+> If you are running an iOS device that supports Slide Over, tap **Open GarageBand and Help**. This will open both GarageBand and AlarmCuts Documentation in Safari. Next, place Safari in Slide Over mode on top of GarageBand. 
+
+![AlarmCuts Record (2/2)](https://adamtow.github.io/alarmcuts/images/alarmcuts-record-2.png)
+
+<span id="trim"></span>
+### Trimming a Sound
+You can trim the audio recording after the fact by tapping **Trim Sound** from the Sound Edit screen.
+
+<span id="delete"></span>
+### Deleting a Sound
+Delete a sound by tapping **Delete Sound** from the Sound Edit screen. You will be asked to confirm deletion. This operation cannot be undone.
 
 ***
 
@@ -53,9 +75,7 @@ Once you have recorded a Siri phrase for your shortcut, you can open GarageBand 
 
 ![AlarmCuts and GarageBand](https://adamtow.github.io/alarmcuts/images/alarmcuts-garageband.png)
 
-> If you are running an iOS device that supports Slide Over, tap **Open GarageBand and Help**. This will open both GarageBand and AlarmCuts Documentation in Safari. Next, place Safari in Slide Over mode on top of GarageBand. You can then follow the instructions below while you create your ringtones.
-
-Tap **Open GarageBand** and follow these steps:
+Follow these steps in GarageBang to create a ringtone:
 
 ![GarageBand Home](https://adamtow.github.io/alarmcuts/images/garageband-home.png)
 
