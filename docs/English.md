@@ -34,9 +34,10 @@ Tap **Open GarageBand** and follow these steps:
 - Choose **Audio Recorder** in the list of instruments.
 - Tap the **Tracks** button to go to the Track View screen for the song.
 
-![GarageBand Tracks Button](https://adamtow.github.io/alarmcuts/images/garageband-tracks-button.jpg)
+![GarageBand Tracks Button](https://adamtow.github.io/alarmcuts/images/garageband-tracks-button.png)
 
 ![GarageBand Track View](https://adamtow.github.io/alarmcuts/images/garageband-trackview.png)
+
 
 
 ![GarageBand Loops](https://adamtow.github.io/alarmcuts/images/garageband-loops.png)
