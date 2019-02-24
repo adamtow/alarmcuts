@@ -29,6 +29,8 @@ Download the latest version of AlarmCuts from RoutineHub:
 
 > [**Download AlarmCuts from RoutineHub &raquo;**](https://routinehub.co/shortcut/2071)
 
+When you first install AlarmCuts, you'll have the option to read this documentation or go straight to the [AlarmCuts Home screen](#alarmcuts).
+
 ***
 
 <span id="siri-shortcuts"></span>
