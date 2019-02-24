@@ -1,7 +1,7 @@
 # AlarmCuts
 AlarmCuts faciliates the recording and management of sounds that can be used as alarms to automatically trigger your shortcuts.
 
-Did you know that you can create alarms with custom ringtones that  can automatically run shortcuts using Siri Shortcut phrases? You can, and AlarmCuts helps you with this multi-step process involving GarageBand, Clock, and Shortcuts.
+Did you know that you can create alarms with custom ringtones that can automatically run shortcuts using Siri Shortcut phrases? You can, and AlarmCuts helps you with this multi-step process involving GarageBand, Clock, and Shortcuts.
 
 ![AlarmCuts and Clock](https://adamtow.github.io/alarmcuts/images/alarmcuts-clock.png)
 
