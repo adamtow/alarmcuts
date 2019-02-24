@@ -1,21 +1,48 @@
 # AlarmCuts
 AlarmCuts faciliates the recording and management of sounds that can be used as alarms to automatically trigger your shortcuts.
 
+Did you know that you can create alarms with custom ringtones that  can automatically run shortcuts using Siri Shortcut phrases? You can, and AlarmCuts helps you with this multi-step process involving GarageBand, Clock, and Shortcuts.
+
 ![AlarmCuts and Clock](https://adamtow.github.io/alarmcuts/images/alarmcuts-clock.png)
 
-## Overview
-Did you know that you can create alarms with custom ringtones that  can automatically run shortcuts using Siri Shortcut phrases? You can, and AlarmCuts helps you with this multi-step process involving GarageBand, Clock, and Shortcuts.
+## Table of Contents
+- [Download and Installation](#download)
+- [AlarmCuts Interface](#alarmcuts)
+- [Creating Ringtones in GarageBand](#garageband)
+- [Creating Alarms in Clock](#clock)
+- [Alarm Tips](#tips)
+	- [Limitations](#limitations)
+- [Settings](#settings)
+- [Version History](#version)
+- [License](#license)
 
 ***
 
+<span id="download"></span>
 ## Download and Installation
 Download the latest version of AlarmCuts from RoutineHub:
 
 > [**Download AlarmCuts from RoutineHub &raquo;**](https://routinehub.co/shortcut/2071)
 
-## Usage
+***
 
+<span id="alarmcuts"></span>
+## AlarmCuts Interface
+When you launch AlarmCuts, the AlarmCuts Home screen will appear with the following items:
 
+- **Record New Sound**: Record a new sound that will be converted to a [ringtone in GarageBand](#garageband) and used as the [alarm sound in Clock](#clock).
+- **Open GarageBand**: Opens the GarageBand application.
+- **Open Clock**: Opens the Clock application.
+- **Sounds**: A list of the sounds that you have created in AlarmCuts. These sounds are located in the `iCloud Drive/Shortcuts/AlarmCuts/sounds` folder.
+- **About**: Displays the AlarmCuts About screen that displays the version string and build number.
+- **Help**: Displays the documentation that you are reading now.
+- **Settings**: Open the [AlarmCuts Settings](#settings) menu.
+
+![AlarmCuts Interface](https://adamtow.github.io/alarmcuts/images/alarmcuts-interface.png)
+
+***
+
+<span id="garageband"></span>
 ## Creating Ringtones in GarageBand
 Once you have recorded a Siri phrase for your shortcut, you can open GarageBand to create your ringtone.
 
@@ -75,7 +102,10 @@ Tap **Open GarageBand** and follow these steps:
 
 Now you can return to AlarmCuts to create your alarm or go straight to the Clock app.
 
-## Clock
+***
+
+<span id="clock"></span>
+## Creating Alarms in Clock
 Once you have created your ringtone, you can now assign it to alarms in the Clock app to automatically trigger shortcuts.
 
 > If you are using an iOS device that supports Split View, place Shortcuts/AlarmCuts and Clock app side-by-side to see what's happening in both applications at the same time.
@@ -111,12 +141,17 @@ Once you have created your ringtone, you can now assign it to alarms in the Cloc
 
 ![AlarmCuts and Clock](https://adamtow.github.io/alarmcuts/images/alarmcuts-clock-2.png)
 
+<span id="tips"></span>
+## Alarm Tips
+Here are some tips to make sure your Siri Shortcut phrases work properly when run as alarms.
 
-## Settings
+- **Volume**: Make sure your alarm volume is loud enough for your iOS device can hear the Siri phrase.
+- **Speed**: When you record the Siri phrase, say it quickly. If you take too long, iOS will stop playing the alarm sound and prompt you to complete the Siri phrase. After recording your sound, you can tap **Play Sound** to see if iOS accurately triggers the phrase properly.
+- **Repetitions**: If iOS doesn't recognize your phrase the first time, the alarm ringtone sound will continue to play. It may recognize it on subsequent plays.
+- **Background Shortcuts**: Read the section on [Limitations](#limitations) below to understand some of the problems you may face while running shortcuts from a potentially locked device.
 
-***
-
-## Limitations
+<span id="limitations"></span>
+### Limitations
 If an alarm goes off when your iOS device is locked, some shortcuts may not work properly or will ask you to unlock the device before continuing. 
 
 Shortcut actions that require the device to be unlocked before they can run include:
@@ -136,11 +171,23 @@ You'll want to practice running your shortcut while your device is locked to see
 
 If your shortcut runs properly, it should be able to run when used with the Clock app. If not, you'll have to rewrite your shortcut for it to work.
 
-### Lock Detection
+#### Lock Detection
 Since the screen is on when the alarm goes off, you cannot use the lock detection technique of checking if the screen brightness is 0 to determine if the device is locked. 
 
 ***
 
+<span id="settings"></span>
+## Settings
+From the AlarmCuts Home, tap **Settings**. You can configure the following options or perform these actions from Settings:
+
+- **Display Hints**: Displays an alert with tips before recording audio and creating the alarm.
+- **Check for Updates Automatically**: When AlarmCuts is launched, it will check for updates on RoutineHub automatically.
+- **Check for Updates**: Manually check for updates to AlarmCuts.
+- **Back to AlarmCuts Home**: Return to the AlarmCuts Home screen.
+
+***
+
+<span id="version"></span>
 ## Version History
 
 - **February 24, 2019**: Initial release.
