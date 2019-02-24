@@ -7,7 +7,8 @@ Did you know that you can create alarms with custom ringtones that  can automati
 
 ## Table of Contents
 - [Download and Installation](#download)
-- [AlarmCuts Interface](#alarmcuts)
+- [Adding Siri Phrase to Your Shortcuts](#siri-shortcuts)
+- [AlarmCuts](#alarmcuts)
 	- [Recording a New Sound](#record)
 	- [Trimming a Sound](#trim)
 	- [Deleting a Sound](#delete)
@@ -30,9 +31,24 @@ Download the latest version of AlarmCuts from RoutineHub:
 
 ***
 
+<span id="siri-shortcuts"></span>
+## Adding Siri Phrase to Your Shortcuts
+Any shortcut that you want to run automatically from an alarm must have a Siri Phrase assigned to it. Follow these steps to add a Siri Phrase to a shortcut:
+
+![Adding a Siri Phrase to a Shortcut](https://adamtow.github.io/alarmcuts/images/siri-shortcut-phrase.png)
+
+1. Open your shortcut and tap the Settings button in the upper-right.
+2. Tap **Add to Siri**.
+3. Tap **Record** and record your phrase.
+4. Tap **Done**.
+
+The phrase that you will be recording in AlarmCuts will be `"Hey Siri <<Your Phrase>>"`. In the example given above, you would record, `"Hey Siri, Sunrise Playlist"`.
+
+*** 
+
 <span id="alarmcuts"></span>
-## AlarmCuts Interface
-When you launch AlarmCuts, the AlarmCuts Home screen will appear with the following items:
+## AlarmCuts
+When you launch AlarmCuts from Shortcuts, the AlarmCuts Home screen will appear with the following items:
 
 - **Record New Sound**: Record a new sound that will be converted to a [ringtone in GarageBand](#garageband) and used as the [alarm sound in Clock](#clock).
 - **Open GarageBand**: Opens the GarageBand application.
@@ -152,9 +168,6 @@ Once you have created your ringtone, you can now assign it to alarms in the Cloc
 
 - In Clock, tap **Edit**.
 - Tap the alarm that was just created.
-
-![Editing Alarm](https://adamtow.github.io/alarmcuts/images/alarmcuts-clock-edit-alarm.png)
-
 - Disable **Snooze**.
 - If desired, set the **Repeat** schedule for the alarm.
 - Tap **Sound**.
@@ -166,6 +179,8 @@ Once you have created your ringtone, you can now assign it to alarms in the Cloc
 - Tap **Save**.
 
 ![AlarmCuts and Clock](https://adamtow.github.io/alarmcuts/images/alarmcuts-clock-2.png)
+
+Your alarm is now configured to run at the scheduled time and play the Siri Shortcut ringtone that will run your shortcut.
 
 <span id="tips"></span>
 ## Alarm Tips
