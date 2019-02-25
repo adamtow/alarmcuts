@@ -71,7 +71,7 @@ When you launch AlarmCuts from Shortcuts, the AlarmCuts Home screen will appear 
 ![AlarmCuts Record (1/2)](https://adamtow.github.io/alarmcuts/images/alarmcuts-record-1.png)
 
 - Next, enter the name for the new audio recording. It's recommended you use the name of the shortcut.
-- If a file with the same name exists in the `iCloud Drive/Shortcuts/AlarmCuts/sounds` folder, you will be prompt to replace the file, keep both audio files, or skip. If you choose skip, the audio recording will not be saved.
+- If a file with the same name exists in the `iCloud Drive/Shortcuts/AlarmCuts/sounds` folder, you will be prompted to replace the file, keep both audio files, or skip. If you choose skip, the audio recording will not be saved.
 - After the file has been saved, you will have the opportunity to open [GarageBand](#garageband) to create a ringtone that can be used with alarms in the Clock app.
 
 > If you are running an iOS device that supports Slide Over, tap **Open GarageBand and Help**. This will open both GarageBand and AlarmCuts Documentation in Safari. Next, place Safari in Slide Over mode on top of GarageBand. 
@@ -188,7 +188,7 @@ Your alarm is now configured to run at the scheduled time and play the Siri Shor
 ## Alarm Tips
 Here are some tips to make sure your Siri Shortcut phrases work properly when run as alarms.
 
-- **Volume**: Make sure your alarm volume is loud enough for your iOS device can hear the Siri phrase.
+- **Volume**: Make sure your alarm volume is loud enough for your iOS device to hear the Siri phrase.
 - **Speed**: When you record the Siri phrase, say it quickly. If you take too long, iOS will stop playing the alarm sound and prompt you to complete the Siri phrase. After recording your sound, you can tap **Play Sound** to see if iOS accurately triggers the phrase properly.
 - **Repetitions**: If iOS doesn't recognize your phrase the first time, the alarm ringtone sound will continue to play. It may recognize it on subsequent plays.
 - **Background Shortcuts**: Read the section on [Limitations](#limitations) below to understand some of the problems you may face while running shortcuts from a potentially locked device.
@@ -208,7 +208,7 @@ Shortcut actions that require the device to be unlocked before they can run incl
 
 You'll want to practice running your shortcut while your device is locked to see if it will work properly with AlarmCuts by doing the following:
 
-1. Wait a Wait action of 5 seconds to the beginning of your shortcut.
+1. Add a Wait action of 5 seconds to the beginning of your shortcut.
 2. Run your shortcut.
 3. Press the Sleep/Wake button on your iOS device to lock it.
 
